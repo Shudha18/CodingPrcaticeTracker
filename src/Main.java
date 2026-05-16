@@ -8,7 +8,7 @@ public class Main {
         StreakManager sm = new StreakManager();
 
         System.out.println("==============================================");
-        System.out.println("||       CODING PRACTICE TRACKER 🚀         ||");
+        System.out.println("||       CODING PRACTICE TRACKER            ||");
         System.out.println("==============================================");
 
         boolean running = true;
