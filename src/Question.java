@@ -40,8 +40,8 @@ public class Question {
             parts[7].trim()
         );
     }
-
-    // Serialize to file line
+     
+    // Serialize to file line 
     public String toFileLine() {
         return id + "|" + title + "|" + topic + "|" + difficulty + "|"
                 + tag + "|" + platform + "|" + date + "|" + notes;
@@ -51,7 +51,8 @@ public class Question {
         return "solution_" + id + ".txt";
     }
 
-    // Getters
+    // Getters 
+    // using all Method to retun 
     public int getId()           { return id; }
     public String getTitle()     { return title; }
     public String getTopic()     { return topic; }
