@@ -52,16 +52,16 @@ public class Main {
 
     static void printMenu() {
         System.out.println("\n══════════════ MAIN MENU ══════════════");
-        System.out.println("  1. ➕ Add New Question & Solution");
-        System.out.println("  2. 🔍 Search by Topic");
-        System.out.println("  3. 🎯 Search by Difficulty");
-        System.out.println("  4. 🏷️  Search by Tag");
-        System.out.println("  5. 📋 View All Questions");
-        System.out.println("  6. 🔥 View Current Streak");
-        System.out.println("  7. 📊 Daily Stats & Progress");
-        System.out.println("  8. 📖 View Solution for a Question");
-        System.out.println("  9. 🗑️  Delete a Question");
-        System.out.println("  0. 🚪 Exit");
+        System.out.println("  1. Add New Question & Solution");
+        System.out.println("  2. Search by Topic");
+        System.out.println("  3. Search by Difficulty");
+        System.out.println("  4. Search by Tag");
+        System.out.println("  5. View All Questions");
+        System.out.println("  6. View Current Streak");
+        System.out.println("  7. Daily Stats & Progress");
+        System.out.println("  8. View Solution for a Question");
+        System.out.println("  9. Delete a Question");
+        System.out.println("  0. Exit");
         System.out.println("═══════════════════════════════════════");
     }
 }
